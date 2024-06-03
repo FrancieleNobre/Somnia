@@ -1,0 +1,84 @@
+.body {
+    background-color: rgb(204, 224, 255);
+}
+
+.nave {
+    background-color: white;
+    opacity: 0.95 !important;
+}
+
+.cardi {
+    background-color: rgb(221, 235, 255) !important;
+    border-style: outset;
+    border-width: 1px;
+    border-color: rgb(221, 235, 255);
+}
+
+.botao {
+    border-style: double;
+    border-width: 2px;
+    border-color: white;
+    border-radius: 10px;
+    background-color: rgb(221, 235, 255);
+}
+.botao:hover {
+    border-color: rgb(221, 235, 255);
+    background-color: rgb(255, 255, 255);
+    scale: 1.1;
+}
+
+.links{
+    text-decoration: none;
+    color: rgb(65, 65, 65);
+}
+
+.botaosearch {
+    border-style: double;
+    border-width: 2px;
+    border-color: rgb(221, 235, 255);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(175, 208, 255);
+}
+.botaosearch:hover {
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(221, 235, 255);
+    color: rgb(255, 255, 255);
+    scale: 1.1;
+}
+
+.separar{
+    background-color: rgb(204, 224, 255);
+    color: white;
+    border-radius: 40px;
+    font-size: xx-large;
+}
+.container{
+    background-color: white !important;
+    padding: 10px;
+    padding-top: 30px;
+    box-shadow: white 0 0 3em;
+}
+.topo{
+    margin-top: 70px;
+}
+
+.botaosair {
+    border-style: double;
+    border-width: 2px;
+    border-color: rgb(255, 172, 172);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 172, 172);
+    margin-right: 20px;
+}
+.botaosair:hover {
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(255, 172, 172);
+    color: rgb(255, 255, 255);
+    scale: 1.1;
+}
+
+.sombrab{
+    box-shadow: white 0 0 3em;
+}
